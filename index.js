@@ -1,5 +1,5 @@
 
-// cria a variável saldoVitorias como global, chama a função e passa os pârametros que serão utilizados
+// criam as variáveis saldoVitorias e nivel como globais, chamam as funções e passam os pârametros que serão utilizados
 var saldoVitorias = calcularPartidas(50, 25)
 var nivel = verificarNivel(50)
 
